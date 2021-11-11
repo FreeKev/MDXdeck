@@ -1,0 +1,16 @@
+sup {
+    color: red;
+}
+
+.blurredup {
+    filter: blur(10px);
+}
+
+h1, h2 {
+    line-height: 1.3em !important;
+}
+
+.titlez {
+    letter-spacing: .3em;
+    text-transform: uppercase;
+}
