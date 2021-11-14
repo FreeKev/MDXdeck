@@ -8,7 +8,7 @@ export default function Blur({children}) {
     return (
         <div
         onDoubleClick={blurred}
-        className={`${blur ? "blurredup" : "blurreddown"}`}
+        className={`${blur ? "blurredup" : ""}`}
         style={{
             transition: '.3s all ease',
             cursor: 'pointer',
