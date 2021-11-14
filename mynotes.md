@@ -106,14 +106,22 @@ Three Persons (related) who are God
       - Creation (Col1)
     - Worship (Phil2; Ps2)
 - HS is G ()
-  - Speaks in the first person
-    - while Peter was pondering nthe vision, the Spirit said to him, “Behold, three men are looking for you.
-  - In John 14-16 "He" (Masc pers pronouns)
-  - Intellect 
-  - Will
-    - Acts 
-  - Emotions (Greive)
-
+  - A Person
+    - Speaks in the first person
+      - while Peter was pondering the vision, the Spirit said to him, “Behold, three men are looking for you.
+    - In John 14-16 "He" (Masc pers pronouns)
+    - Intellect 
+    - Will
+      - Acts 16:7 - And when they had come up to Mysia, they attempted to go into Bithynia, but the Spirit of Jesus did not allow them.
+      - All these are empowered by one and the same Spirit, who apportions to each one individually as he wills. (1 Cor 12 11)
+    - Emotions (Greive - eph 4:30)
+    - Separate personal forms (eg baptism of J)
+  - Words, Works, Worship
+    - Names
+      - Acts 28:25 - And disagreeing among themselves, they departed after Paul had made one statement: “The Holy Spirit was right in saying to your fathers through Isaiah the prophet:
+    - Attrib (Omnipotence Ps33 / Luk1:35)
+    - Works (Same), resurrection (R8:11)
+    - Worship (Can sin against HS), MT28
 
 Personal properties (eternal Jn 17:5)
 
